@@ -1,4 +1,4 @@
 package com.powernode.oa.mapper;
 
-public class OkMapper {
+public interface OkMapper {
 }
